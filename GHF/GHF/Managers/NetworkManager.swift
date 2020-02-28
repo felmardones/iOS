@@ -115,7 +115,7 @@ class NetworkManager{
                     completed(nil)
                     return
             }
-                        
+            
             self.cache.setObject(image, forKey: cacheKey)
             DispatchQueue.main.async {
                 completed(image)
