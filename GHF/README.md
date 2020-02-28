@@ -1,6 +1,4 @@
-# iOS
-Repository for Apps, MVP, etc..
-# Views From Github Followers App
+# iOS Github Followers
 
 ![alt text](https://github.com/felmardones/iOS/blob/master/demo/1.gif "Intro")
 ![alt text](https://github.com/felmardones/iOS/blob/master/demo/2.gif "2")
