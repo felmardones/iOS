@@ -1,2 +1,3 @@
-# iOS
-Repository for Apps, MVP, etc..
+# iOS Birdi Copy
+App Replica for Birdi Start Up.
+
